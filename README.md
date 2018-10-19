@@ -26,8 +26,8 @@ Built with:
 # Loading Screen
 ![Loading Screen](https://github.com/golubovicnenad/remy/blob/master/documents/Images/Loading%20Screen.png "Loading Screen")
 
-# Gameplay 1
-![Gameplay1](https://github.com/golubovicnenad/remy/blob/master/documents/Images/In-Game.png" Gameplay1")
+# InGame
+![InGame](https://github.com/golubovicnenad/remy/blob/master/documents/Images/In-Game.png "InGame")
 
 # Gameplay 2
 ![Gameplay2](https://github.com/golubovicnenad/remy/blob/master/documents/Images/In-Game%202.png" Gameplay2")
