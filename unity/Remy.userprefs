@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Photon Unity Networking\Demos\DemoChat\NamePickGui.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Login\RegisterButton_StartAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Editor\PhotonNetwork\PhotonEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Login\Login_Register.cs" Line="8" Column="10" />
+      <File FileName="Assets\Scripts\Global\DontDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Login\LoadScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Login\UserData.cs" Line="6" Column="22" />
+      <File FileName="Assets\Photon Unity Networking\Demos\DemoChat\NamePickGui.cs" Line="42" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Demos\DemoChat\ChatGui.cs" Line="524" Column="25" />
+      <File FileName="Assets\Scripts\MainMenuUI.cs" Line="105" Column="1" />
+      <File FileName="Assets\Scripts\UpdateAvatar.cs" Line="11" Column="140" />
+      <File FileName="Assets\Scripts\CurrentAvatarChoise.cs" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\UpdateCardDesign.cs" Line="8" Column="27" />
+      <File FileName="Assets\Scripts\RefreshProfilePanel.cs" Line="8" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
