@@ -10,3 +10,6 @@ Built with:
 
 # Login
 ![Login](https://github.com/golubovicnenad/remy/blob/master/documents/Images/Login.png "Login")
+
+# Home Screen
+![Home](https://github.com/golubovicnenad/remy/blob/master/documents/Images/Home.png "Home")
