@@ -29,7 +29,7 @@ Built with:
 # InGame
 ![InGame](https://github.com/golubovicnenad/remy/blob/master/documents/Images/In-Game.png "InGame")
 
-# Gameplay 2
-![Gameplay2](https://github.com/golubovicnenad/remy/blob/master/documents/Images/In-Game%202.png" Gameplay2")
+# InGame
+![InGame](https://github.com/golubovicnenad/remy/blob/master/documents/Images/In-Game%202.png "InGame")
 
 
