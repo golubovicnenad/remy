@@ -1,9 +1,12 @@
 # remy
 
 * Online Multiplayer Gin Rummy. 
-* Built with: 
+
+Built with: 
 *Unity 
-*PhotonPUN  
-*MySQL Workbench. 
+*PhotonPUN
+*WAMP
+*MySQLWorkbench 
 
-
+# Login
+![Login](https://github.com/golubovicnenad/remy/blob/master/documents/Images/Login.png "Login")
