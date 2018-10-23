@@ -23,9 +23,6 @@ Built with:
 # Global Chat
 ![Global Chat](https://github.com/golubovicnenad/remy/blob/master/documents/Images/Global%20Chat.png "Global Chat")
 
-# Loading Screen
-![Loading Screen](https://github.com/golubovicnenad/remy/blob/master/documents/Images/Loading%20Screen.png "Loading Screen")
-
 # InGame
 ![InGame](https://github.com/golubovicnenad/remy/blob/master/documents/Images/In-Game.png "InGame")
 
